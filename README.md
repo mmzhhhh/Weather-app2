@@ -1,6 +1,7 @@
-使用 Vue 、tailwind、 openWeatherAPI 写的简易天气预测Web 可作为vue练手
-参考教程：https://www.youtube.com/watch?v=JLc-hWsPTUY&list=LL&index=9
-在线演示：
+《使用 Vue 、tailwind、 openWeatherAPI 写的简易天气预测Web 可作为vue练手<br>
+参考教程：https://www.youtube.com/watch?v=JLc-hWsPTUY&list=LL&index=9<br>
+在线演示：https://weather-app2-9e34.onrender.com/<br>
+使用说明：在文本框中输入英文的地名，按 Enter 即可出现结果、切换系统主题色会自动切换页面背景<br>
 
 # Weather-app
 

@@ -1,3 +1,7 @@
+使用 Vue 、tailwind、 openWeatherAPI 写的简易天气预测Web 可作为vue练手
+参考教程：https://www.youtube.com/watch?v=JLc-hWsPTUY&list=LL&index=9
+在线演示：
+
 # Weather-app
 
 This template should help get you started developing with Vue 3 in Vite.

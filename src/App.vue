@@ -31,7 +31,7 @@
 import { ref } from 'vue'
 
 const api_key = 'c4e8db3e6c1d8b35d9271e423bd7240f';
-const url_base = 'http://api.openweathermap.org/data/2.5/';
+const url_base = 'https://api.openweathermap.org/data/2.5/';
 
 const query = ref('')
 const weather = ref({})
